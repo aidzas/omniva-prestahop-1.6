@@ -10,5 +10,5 @@
 	<is_configurable>1</is_configurable>
 	<need_instance>0</need_instance>
 	<limited_countries></limited_countries>
-	<a></a>
+	<a>a</a>
 </module>
